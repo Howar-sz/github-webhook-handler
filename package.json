@@ -1,5 +1,5 @@
 {
-  "name": "github-webhook-handler",
+  "name": "my-webhook-handler",
   "version": "1.0.0",
   "description": "Web handler / middleware for processing GitHub Webhooks",
   "main": "github-webhook-handler.js",
